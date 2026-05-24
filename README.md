@@ -1,10 +1,4 @@
-# Reweighted Proxy Guidance
-
-Official code release for:
-
-**Past as Prior: Reweighted Proxy Guidance for Stable Adversarial Training**
-
-Accepted to ICASSP 2026.
+# Code for ICASSP 2026 Paper, "Past as Prior: Reweighted Proxy Guidance for Stable Adversarial Training"
 
 This repository implements Reweighted Proxy Guidance (RPG), a history-guided adversarial training framework that uses the immediately preceding model as a proxy prior. RPG can be combined with both single-step and multi-step adversarial training, including Fast-AT, Fast-AT-GA, Fast-BAT, and PGD-AT.
 
